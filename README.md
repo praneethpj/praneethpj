@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praneethpj
-- 👀 I’m Developed Mobile application using Flutter
+- 👀 I love and enjoy flutter development
 - 🌱 I have experiences in React Js, Java, Spring Boot
 - 💞️ I’m looking to collaborate on Java project
 - 📫 How to reach me ... https://www.linkedin.com/in/praneethpj/
