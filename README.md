@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @praneethpj
 - 👀 I love and enjoy flutter development
 - 🌱 I have experiences in React Js, Java, Spring Boot
-- 💞️ I’m looking to collaborate on Java project
+- 💞️ I’m looking to collaborate on Flutter project
 - 📫 How to reach me ... https://www.linkedin.com/in/praneethpj/
 
 <!---
