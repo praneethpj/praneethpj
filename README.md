@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Flutter project
 - 📫 How to reach me ... https://www.linkedin.com/in/praneethpj/
 
-- My Latest open source project
+- Please find my My Latest open source project
 https://github.com/praneethpj/Flutter_Video_Consultant_App_FrontEnd
 
 <!---
