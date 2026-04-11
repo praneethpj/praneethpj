@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Praneeth
 
-🚀 Cloud & DevOps Engineer | Software Engineer (4+ years)  
+🚀 Software Engineer (4+ years) transitioning into DevOps & Cloud  
+💡 Experience building scalable systems, now focusing on Kubernetes, CI/CD, and observability
 📍 Based in British Columbia, Canada  
 
 ---
