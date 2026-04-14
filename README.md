@@ -31,6 +31,9 @@
 
 ## 🚀 DevOps Projects
 
+🔹 **CKA Exercises**  
+👉 https://github.com/praneethpj/CKA-Exercises
+
 🔹 **Kubernetes Microservices Deployment**  
 👉 https://github.com/praneethpj/k8s-app-deployment  
 
